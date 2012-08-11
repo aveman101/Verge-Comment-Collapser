@@ -1,0 +1,21 @@
+{
+  "name": "Verge Comment Collapser",
+  "version": "1.1",
+  "manifest_version": 2,
+  "description": "Adds buttons to collapse comments on The Verge.",
+  "icons":{
+    "16":"icon_16.png",
+    "48":"icon_48.png",
+    "128":"icon_128.png"
+    },
+  "content_scripts":[
+    {
+      "matches": ["http://www.theverge.com/*"],
+      "js":["jquery-1.7.2.min.js", "main.js"],
+      "css":["stylesheet.css"]
+    }
+  ],
+  "permissions": [
+    "http://theverge.com/"
+  ]
+}
