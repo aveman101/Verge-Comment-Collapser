@@ -8,7 +8,6 @@ span.widget-plus, span.widget-minus {
 	height: 13px;
 	width: 13px;
 	margin: 1px;
-	line-height: 16px;
 	border-radius: inherit;
 	background-color: #FA6D52;
 	text-align: center;
@@ -23,8 +22,11 @@ span.widget-minus {
 	font-size: 26px;
 	font-weight: normal;
 	color: #444;
-
 	background-color: #F5F1EE;
+}
+
+span.widget-plus {
+	line-height: 11px;
 }
 
 div.collapseWidget { 
@@ -37,5 +39,4 @@ div.collapseWidget {
 	border: solid 1px #CCCCCC;
 	top:9px;
 	float: left;
-	/*overflow:hidden;*/
 }
