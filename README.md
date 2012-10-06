@@ -9,6 +9,6 @@ Install
 
 Chrome: from the [Chrome Web Store](https://chrome.google.com/webstore/detail/mafmbkmnkdhabjjenmpjcbpdfagpkmfk?hl=en-US)
 
-Safari: from the [downloads tab here on github](https://github.com/downloads/aveman101/Verge-Comment-Collapser/Verge%20Comment%20Collapser.safariextz)
+Safari: from the [downloads tab here on github](https://github.com/aveman101/Verge-Comment-Collapser/downloads)
 
 Firefox, Opera, and other browses are not (yet) supported. If you are talented in creating extensions for these browsers, *please*, *please*, *please* look over this code (it's not a lot), build an extenion, and share (I would do it myself, but the Firefox extension API overwhlemed me, and it seems that so few people use Opera that I didn't bother). I will be **more than happy** to feature those extensions here.
