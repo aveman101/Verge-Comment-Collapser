@@ -1,6 +1,6 @@
 {
   "name": "Verge Comment Collapser",
-  "version": "1.2",
+  "version": "1.2.1",
   "manifest_version": 2,
   "description": "Adds buttons to collapse comments on The Verge.",
   "icons":{
