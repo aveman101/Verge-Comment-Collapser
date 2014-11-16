@@ -1,3 +1,10 @@
+Verge-Comment-Collapser
+=======================
+
+**Important**: This project is no longer in development, because theverge.com has enabled buttons to collapse comments natively. Please do not use this extension.
+
+-----------------------------------------------
+
 This little extension does one thing, and one thing only: it adds buttons to collapse comments on theverge.com!
 
 It works in the comments section of articles, and also in the Verge forums.
